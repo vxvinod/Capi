@@ -1,0 +1,1 @@
+Best practices in ruby -- http://www.sitepoint.com/10-ruby-on-rails-best-practices/

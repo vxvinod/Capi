@@ -1,0 +1,39 @@
+
+.container{
+	background-color: black;
+	width: 100%;
+	height:100%;
+}
+.header{
+	background-color: yellow;
+	width:90%;
+	height:20%;
+	margin :auto;
+	word-wrap:break-word;
+}
+
+.section{
+	background-color: grey;
+	width:60%;
+	height:60%;
+	margin-top:1%;
+	float:left;
+	word-wrap:break-word;
+}
+
+.side-section{
+	background-color: blue;
+	width:40%;
+	height:60%;
+	margin-top: 1%;
+	float: right;
+}
+
+.footer{
+	background-color: white;
+	height:20%;
+	width:90%;
+	margin-top:25%;
+	margin-left:4%;
+	word-wrap:break-word;
+}

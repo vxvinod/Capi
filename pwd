@@ -1,0 +1,16 @@
+AcdCustomInk2014
+
+Customink - inker auth login credential 
+
+  username => vperumal	
+  paswd =>    Cust0m1nk2014
+
+ip
+
+10.106.50.27
+netmask -- 255.255.255.0
+gateway -- 10.106.50.1
+
+DNS server 10.106.20.20, 10.106.20.30
+
+search domain -- lister.lan
